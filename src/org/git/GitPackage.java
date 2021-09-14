@@ -20,7 +20,7 @@ public class GitPackage {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Made a change in  git hub automaticaly run on jenkins");
 
 	}
 
