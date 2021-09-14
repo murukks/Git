@@ -21,7 +21,7 @@ public class GitPackage {
 
 	public static void main(String[] args) {
 		System.out.println("Made a change in  git hub automaticaly run on jenkins");
-		System.out.println("Git commit happened");
+		System.out.println("Git commit happened again");
 
 	}
 
